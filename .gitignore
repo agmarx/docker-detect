@@ -1,0 +1,8 @@
+# Temporary files
+__pycache__
+*.pyc
+
+# Build directories
+build/
+dist/
+*.egg-info
