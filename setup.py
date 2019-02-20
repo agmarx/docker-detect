@@ -5,7 +5,7 @@ with open("README.md", "rb") as fh:
 
 setuptools.setup(
     name="docker-detect",
-    version="0.0.1",
+    version="0.0.2",
     author="agmarx",
     author_email="agmarx@protonmail.com",
     description="Detect whether the current process is running inside Docker/Kubernetes/LXC container",
